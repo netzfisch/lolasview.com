@@ -15,14 +15,14 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "de-DE"
+title                    : "» Lola's View ... weltentdecker Blog «"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Lola Behrens"
+description              : "Nach dem Abitur Südamerika kennenzulernen, war mein Traum ... jetzt bin ich mit kulturweit in Buenos Aires."
+url                      : "https://www.lolasview.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "l0lab/lolasview.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -68,7 +68,7 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification :
+google_site_verification : "vJsrAVSl4s0b2XOTZ7HfWW-M1JWD9r_FUmpHJNuRSEk"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -90,17 +90,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-117490479-1"
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Lola in Buenos Aires"
+  avatar           : "/assets/images/author_portraet_avatar.jpg"
+  bio              : "Kreative, tanzlustige, neugierige und weltoffene Hamburger Deern, die aktuell ein FSJ mit kulturweit absolviert."
+  location         : "Buenos Aires, Argentina"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -108,13 +108,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "l0lab"
   foursquare       :
-  github           :
+  github           : "l0lab"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "art.bylola"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
