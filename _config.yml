@@ -23,7 +23,7 @@ description              : "Nach dem Abitur Südamerika kennenzulernen, war mein
 url                      : "https://www.lolasview.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "l0lab/lolasview.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/mood_carloscalvo_teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -90,7 +90,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-117490479-1"
 
@@ -102,15 +102,15 @@ author:
   bio              : "Kreative, tanzlustige, neugierige und weltoffene Hamburger Deern, die aktuell ein FSJ mit kulturweit absolviert."
   location         : "Buenos Aires, Argentina"
   email            :
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : "https://kulturweit-blog.de/blog/author/lolabehrens/"
+  home             : "/about/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "l0lab"
+  facebook         : "L0laB"
   foursquare       :
-  github           : "l0lab"
+  github           : "L0laB"
   gitlab           :
   google_plus      :
   keybase          :
@@ -196,7 +196,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Argentina/Buenos_Aires # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

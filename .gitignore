@@ -1,3 +1,4 @@
 _site
+/assets/images/.comments
 .sass-cache
 .jekyll-metadata
