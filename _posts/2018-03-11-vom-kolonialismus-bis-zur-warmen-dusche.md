@@ -1,7 +1,10 @@
 ---
 title: "Vom Kolonialismus bis zur warmen Dusche"
-excerpt: "kulturweit Vorbereitungsseminar in Berlin Werbelinsee"
+excerpt: "Wenn 165 kulturweit-Freiwillige für 10 Tage zum Vorbereitungsseminar
+ihres Auslandsjahrs zusammenkommen, wird 24/07 diskutiert und am Ende gefeiert."
 categories: Kulturweit
+header:
+  teaser: /assets/images/seminar_world_large.jpg
 tags:
   - kulturweit
   - seminar

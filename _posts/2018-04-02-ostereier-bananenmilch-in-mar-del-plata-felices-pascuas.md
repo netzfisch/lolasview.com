@@ -2,6 +2,7 @@
 title:  "Ostereier & Bananenmilch in Mar del Plata – Felices Pascuas!"
 header:
   image: /assets/images/things_eastereggs_header.jpg
+  teaser: /assets/images/landscape_mardelplata_teaser.jpg
 categories: Leben
 tags:
   - leben

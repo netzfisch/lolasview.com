@@ -1,5 +1,7 @@
 ---
 title: "Der Milchtrinker vom Bahnhof Zoo"
+excerpt: "Die Begegnung mit dem Obdachlosen Dieter im Rahmen des kulturweit-
+Vorbereitungsseminars in Berlin geht mir auch in Südamerika noch durch den Kopf."
 categories: Kulturweit
 tags:
   - kulturweit

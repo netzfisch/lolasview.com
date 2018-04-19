@@ -1,8 +1,10 @@
 ---
 title: "Simón und ich ..."
-excerpt: "Minerva McGonagall, die Katze oder mein gesplatenes Verhältnis zum starren Blick"
+excerpt: "Das ist der schwarze Kater Simón, der Mitglied unserer WG in Boedo
+ist. Da ich kein Katzenfan bin, hatten wir anfangs so unsere Schwierigkeiten."
 header:
   image: /assets/images/cat_simon_header.jpg
+  teaser: /assets/images/cat_simon_small.jpg
 categories: Leben
 tags:
   - leben
