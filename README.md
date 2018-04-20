@@ -23,7 +23,7 @@ $ bundle install
 To write a **new posts**, simply add a file in the `_posts/` directory that
 follows the naming convention `YYYY-MM-DD-name-of-post.md`, edit the post with
 **gedit text editor** and include necessary front matter (title, excerpt, header
-image, categories, tags, etc.).
+image/teaser, categories, tags, etc.).
 
 Use the **file manager** to look at the source of **existing blog posts** and
 check [markdwon syntax][kramdown] to get an idea how to format text and add
@@ -31,7 +31,7 @@ hyperlinks! To see it in the context of the theme look parallel at the [formated
 post][markup-post] vs. the [raw version][markup-raw].
 
 **Images** need to be placed in the folder `assets/imgages/` with following name
-and dimension convention
+convention about name and dimension
 
 * `..._header.jpg` with a 3:1 ratio: 1200x400 pixel (banner)
 * `..._large.jpg` with a 1:1 ratio: 800x800 pixel (square)
@@ -41,7 +41,12 @@ and dimension convention
 * `..._teaser.jpg` with a 3:2 ratio: 300x200 pixel (teaser)
 
 
-... for **croping + resizing** use the application **gThumb**.
+Use the application **gThumb** to
+
+1. **crop** image to ratio, eg 3:1,1:1, 3:2, etc. and **accept**, than
+2. **resize** to image width 1200, 800, 300, etc. and **accept** and
+3. finally **save as** with appropiate **name extenstion** like  header, large,
+small, teaser.
 
 Than link the images `![Simon]({{"/assets/images/cat_simon_small.jpg"}})` in the
 post with markdown syntax followed by image alignment instructions
@@ -64,28 +69,32 @@ and than view in the browser at http://localhost:4000
 ## Deployment
 
 For a general understanding of git and GitHub read [Hello World Guide][github].
-To deploy on the server, start a second tab of Tilix and do a commit
+
+First **sync the fork**
+
+    $ git fetch upstream
+    $ git checkout master
+    $ git merge upstream/master
+
+To **commit** start a second terminal tab and do
 
     $ git log            # see the last commits
     $ git status         # see the staging area
     $ git add .          # mark files to be commited
     $ git commit -m "create a blog post about live"
 
-If you forgot something, or want to change stuff in the las commit, do
+If you forgot something, or want to **change stuff in the last commit**, do
 
     $ git add .          # mark changed files to becommited
     $ git commit --amend # append changes to last commit
 
-than push to GitHub
+than **push to GitHub**, which also will **deploy** changes **to the server**:
 
-    $ git pull
-    $ git rebase
     $ git push
 
-The successful `git push` will trigger a github webhook and deploy the static
-site to [Netlify][netlify]. Than the site is "live" and finally check the
-results at https://www.lolasview.com before promoting via email to friends and
-family!
+A successful `git push` will trigger a GitHub webhook and deploy the static
+site to [Netlify][netlify]. Than "it is live" and before promoting via email to
+friends and family check the results at https://www.lolasview.com
 
 # Help
 
