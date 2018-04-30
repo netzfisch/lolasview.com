@@ -4,7 +4,7 @@ excerpt: "Wenn 165 kulturweit-Freiwillige für 10 Tage zum Vorbereitungsseminar
 ihres Auslandsjahrs zusammenkommen, wird 24/07 diskutiert und am Ende gefeiert."
 categories: Kulturweit
 header:
-  teaser: /assets/images/seminar_world_large.jpg
+  teaser: /assets/images/seminar_world_teaser.jpg
 tags:
   - kulturweit
   - seminar
@@ -13,15 +13,15 @@ tags:
   - berlin
 gallery:
   - url: /assets/images/seminar_snowman_large.jpg
-    image_path: /assets/images/seminar_snowman_small.jpg
+    image_path: /assets/images/seminar_snowman_teaser.jpg
     alt: "Team Building"
     title: "Team Building"
   - url: /assets/images/seminar_world_large.jpg
-    image_path: /assets/images/seminar_world_small.jpg
+    image_path: /assets/images/seminar_world_teaser.jpg
     alt: "Weltkarte"
     title: "Weltkarte"
   - url: /assets/images/seminar_friends_large.jpg
-    image_path: /assets/images/seminar_friends_small.jpg
+    image_path: /assets/images/seminar_friends_teaser.jpg
     alt: "Mitstreiter"
     title: "Mitstreiter"
 ---
@@ -29,7 +29,7 @@ gallery:
 ![Sonnenuntergang mit Freunden am See]({{"/assets/images/seminar_sunset_large.jpg"}}){: .full}
 
 Die Busse mit 165 kulturweit-Freiwilligen kamen nach einer trubeligen und sehr
-lauten Fahrt auf dem Gelände der Europäischen Jugendbegegnungsstätte am
+lauten Fahrt auf dem Gelände der [Europäischen Jugendbegegnungsstätte][ejb] am
 Werbellinsee am 1. März 2018 an. Spannung! Jeder von uns würde nach dem
 kulturweit-Vorbereitungsseminar in einen anderen Teil der Erde gehen – hier
 wollten wir uns vor unserem FSJ noch ein paar Gedanken machen. Tagsüber ging es
@@ -118,3 +118,5 @@ miteinander erlebt hatte und die Meisten doch in den nächsten Monaten gar nicht
 mehr sehen würde… So wurden noch ganz viele Nummern und Umarmungen ausgetauscht,
 bevor wir dem Werbellinsee “Tschüss, bis in 6/12 Monaten” sagten und alle in die
 Busse stiegen.
+
+[ejb]: https://www.ejb-werbellinsee.de/

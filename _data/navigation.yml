@@ -2,10 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Buenos Aires"
-    url: /buenos-aires/
-  - title: "New York"
-    url: /new-york/
+  #- title: "Buenos Aires"
+  #  url: /buenos-aires/
+  #- title: "New York"
+  #  url: /new-york/
+  #
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -7,7 +7,7 @@ Hier findet Ihr meine Tips für **New York**
 
 ### Sehen
 
-* [Fergus McCaffrey][mccaffrey] Fine Arts Gallery ;-)
+* [Fergus McCaffrey][mccaffrey] Fine Arts Gallery
 
 ### Erleben
 
