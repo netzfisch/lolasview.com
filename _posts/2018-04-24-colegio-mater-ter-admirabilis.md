@@ -1,8 +1,9 @@
 ---
 title: "Colegio Mater Ter Admirabilis"
-excerpt: "Ein kurzes Portrait meiner Einsatzstelle"
+excerpt: "Ein kurzes Portrait meiner Einsatzstelle, dem Colegio Mater Ter Admirabilis: Schüler und Lehrer haben mich herzlich aufgenommen und mir den Einstieg leicht gemacht."
 header:
   image: /assets/images/tequiero_lola_header.jpg
+  teaser: /assets/images/tequiero_lola_teaser.jpg
 categories: Schule
 tags:
   - schule
