@@ -1,5 +1,5 @@
 ---
-title: "Hamburg trifft Buenos Aires"
+title: "Hamburg trifft Buenos Aires – meine Arbeitswoche im Colegio"
 header:
   image: /assets/images/pasch_desk_header.jpg
   teaser: /assets/images/mater_classroom_teaser.jpg
@@ -7,7 +7,7 @@ categories: Schule
 tags:
   - alltag
   - kulturweit
-  - mater schule
+  - mater
   - buenos aires
 ---
 

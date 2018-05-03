@@ -1,14 +1,14 @@
 ---
-title: "Colegio Mater Ter Admirabilis"
+title: "Colegio Mater Ter Admirabilis – ein kleines Schulportrait"
 excerpt: "Ein kurzes Portrait meiner Einsatzstelle, dem Colegio Mater Ter Admirabilis: Schüler und Lehrer haben mich herzlich aufgenommen und mir den Einstieg leicht gemacht."
 header:
   image: /assets/images/tequiero_lola_header.jpg
   teaser: /assets/images/tequiero_lola_teaser.jpg
 categories: Schule
 tags:
-  - schule
-  - einsatzstelle
+  - alltag
   - kulturweit
+  - mater
   - schüler
   - buenos aires
 gallery:
@@ -48,8 +48,7 @@ Die Pausen verbringe ich im Lehrerzimmer.
 
 ![Rosca de Pascua]({{"/assets/images/rosca_de_pascua_small.jpg"}}){: .align-left}
 
-Hier ist es üblich, sich mit mit einem “besito” (Küsschen) auf die rechte Wange und einem kurzen “Que tal? - Todo bien” zu begrüßen. Bei der großen Anzahl der Lehrer werfe ich aber auch häufig mal ein freundliches “Buenos dias” in die Runde.
-Im Lehrerzimmer gibt es eine kleine Küche, in der sich die meisten Lehrer das von zu Hause mitgebrachte Mittagessen aufwärmen können. Es herrscht hier eine angenehme Stimmung. Häufig werden auch kleine Leckereien wie Kekse oder nach Ostern ein “Rosca de Pascua” (Osterkranz) angeboten.
+Hier ist es üblich, sich mit einem “besito” (Küsschen) auf die rechte Wange und einem kurzen “Que tal - todo bien?” zu begrüßen. Bei der großen Anzahl der Lehrer werfe ich aber auch häufig mal ein freundliches “Buenos dias” in die Runde. Im Lehrerzimmer gibt es eine kleine Küche, in der sich die meisten Lehrer das von zu Hause mitgebrachte Mittagessen aufwärmen können. Es herrscht hier eine angenehme Stimmung. Häufig werden auch kleine Leckereien wie Kekse oder nach Ostern ein “Rosca de Pascua” (Osterkranz) angeboten.
 
 ## Vonwegen Mensafraß
 
