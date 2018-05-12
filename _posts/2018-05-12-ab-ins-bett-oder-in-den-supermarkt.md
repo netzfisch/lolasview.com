@@ -20,7 +20,6 @@ gallery:
     image_path: /assets/images/pyjama_shoppingcenter_teaser.jpg
     alt: "Im Einkaufszentrum"
     title: "Im Einkaufszentrum"
-gallery2:
   - url: /assets/images/pyjama_subte_large.jpg
     image_path: /assets/images/pyjama_subte_teaser.jpg
     alt: "Subte"
@@ -34,7 +33,5 @@ liegen in ganz Lateinamerika total im Trend und es handelt sich dabei keineswegs
 
 Auch wenn diese Hosen hier offenbar mega hip sind, sehen sie für mich immer noch so aus, als hätte jemand total verschlafen und vollkommen überstürzt das Haus verlassen. Sowas soll es ja geben.
 
-{% include gallery class="half" %}
-
-{% include gallery id="gallery2" class="half" caption="Überall in Buenos Aires tauchen die karierten Hosen auf" %}
+{% include gallery caption="Überall in Buenos Aires tauchen die karierten Hosen auf." %}
 

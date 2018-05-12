@@ -38,7 +38,7 @@ Nach einer stickig-heißen Schulwoche bei 30 Grad und viel Sonne stand das lange
 
 ## Museo Nacional de Bellas Artes
 
-Eve und ich waren beide sehr genervt: Wir waren extra früh aufgestanden zu sein und mussten nun gezwungenermaßen umdenken!
+Eve und ich waren beide sehr genervt: Wir waren extra früh aufgestanden und mussten nun gezwungenermaßen umdenken!
 
 !["El Beso", Auguste Rodin]({{"/assets/images/museum_beso_small.jpg"}}){: .align-left}
 
