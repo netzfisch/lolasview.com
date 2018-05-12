@@ -34,11 +34,11 @@ gallery2:
     title: "Die Friedhofskatze"
 ---
 
-Nach stickig-heißer Schulwoche bei 30 Grad und viel Sonne stand das lange Wochenende vor der Tür: Eve und ich hatten geplant, das tolle Wetter auszunutzen und einen Ausflug in das Tigre-Delta in der Provinz Buneos Aires zu machen. Der Wecker war auf 7 Uhr am Samstagmorgen gestellt, doch das Wetter machte uns einen Strich durch die Rechnung: Genau heute musste es wie aus Eimern regnen! Die aufgestaute schwüle Luft entludt sich in einem riesigen Gewitter.
+Nach einer stickig-heißen Schulwoche bei 30 Grad und viel Sonne stand das lange Wochenende vor der Tür: Eve und ich hatten geplant, das tolle Wetter auszunutzen und einen Ausflug in das Tigre-Delta in der Provinz Buneos Aires zu machen. Der Wecker war auf 7 Uhr am Samstagmorgen gestellt, doch das Wetter machte uns einen Strich durch die Rechnung: Genau heute musste es wie aus Eimern regnen! Die aufgestaute schwüle Luft entludt sich in einem riesigen Gewitter.
 
 ## Museo Nacional de Bellas Artes
 
-Eve und ich waren beide sehr genervt, diesen Morgen früh aufgestanden zu sein und nun gezwungen waren umzudenken!
+Eve und ich waren beide sehr genervt: Wir waren extra früh aufgestanden zu sein und mussten nun gezwungenermaßen umdenken!
 
 !["El Beso", Auguste Rodin]({{"/assets/images/museum_beso_small.jpg"}}){: .align-left}
 
@@ -57,7 +57,7 @@ Die prächtigen Mausoleen sind sehr beeindruckend mit Engelsstatuen und Kreuzen 
 
 ## Megges
 
-Danach haben wir uns eine kleine Pause gegönnt und ich habe mich dazu "breit schlagen" lassen, uns im McDonalds zu stärken. Eve hatte schon seit der Ankunft in Buenos Aires versucht, mich oder Sara-Lina dazu zu überreden. Denn sie liebt die “Megges”-Pommes (ein fränkisches Mecces) und es erinnert sie an daheim. Man sah ihr das Glück auf jeden Fall ins Gesicht geschrieben ;)
+Danach haben wir uns eine kleine Pause gegönnt und ich habe mich dazu "breitschlagen" lassen, uns im McDonalds zu stärken. Eve hatte schon seit der Ankunft in Buenos Aires versucht, mich oder Sara-Lina dazu zu überreden. Denn sie liebt die “Megges”-Pommes (ein fränkisches Mecces) und es erinnert sie an daheim. Man sah ihr das Glück auf jeden Fall ins Gesicht geschrieben ;)
 
 ## Ateneo Grand Splendid
 
