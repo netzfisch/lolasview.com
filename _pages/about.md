@@ -11,7 +11,7 @@ Osteuropa** unterwegs.  Danach habe ich noch ein **Praktikum in der Kunstgalerie
 [Fergus McCaffrey][mccaffrey] in New York** gemacht und viel in einem Restaurant namens
 [Poké You][poke-you] gejobbt.
 
-![Simón mein neuer Freund]({{"/assets/images/author_portraet_small.jpg"}}){: .align-left}
+![New York City]({{"/assets/images/lola_ny_small.jpg"}}){: .align-left}
 
 Ich wollte schon immer unbedingt **Spanisch lernen und Lateinamerika bereisen**,
 da mich Musik, Sprache und Kultur fasziniert haben. Durch
