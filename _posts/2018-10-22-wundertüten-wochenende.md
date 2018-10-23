@@ -65,7 +65,7 @@ Zur **Prüfung in ihrem Studiengang Tourismus gehörte eine Touristenführung** 
 
 ## Zum Schreien!
 ![Uralte Bäume]({{"/assets/images/weekend_culture_small.jpg"}}){: .align-left}
-Danach habe ich einen Abstecher in mein [**Lieblingskulturzentrum Centro Cultural de la Recoleta**](http://www.centroculturalrecoleta.org/) gemacht und mir eine sehr interessante **Ausstellung über die Beziehung der Psychoanayse und Film angeschaut. Sie basierte auf Ansätzen von Sigmund Freud**. Außerdem wurden Ausschnitte von Filmen über die Psyche gezeigt. Unter anderen ein Zusammenschnitt des Films “Psycho” von Alfred Hitchcock aus dem Jahre 1960. Zufälligerweise hatte ich den Abend davor ein **Filmstill einer schreienden Frau des Filmes** etwas abgeändert gezeichnet.
+Danach habe ich einen Abstecher in mein [**Lieblingskulturzentrum Centro Cultural de la Recoleta**](http://www.centroculturalrecoleta.org/) gemacht und mir eine sehr interessante **Ausstellung über die Beziehung der Psychoanalyse und Film angeschaut. Sie basierte auf Ansätzen von Sigmund Freud**. Außerdem wurden Ausschnitte von Filmen über die Psyche gezeigt. Unter anderen ein Zusammenschnitt des Films “Psycho” von Alfred Hitchcock aus dem Jahre 1960. Zufälligerweise hatte ich den Abend davor ein **Filmstill einer schreienden Frau des Filmes** etwas abgeändert gezeichnet.
 
 ![Der Schrei]({{"/assets/images/weekend_shout_large.jpg"}}){: .full}
 
