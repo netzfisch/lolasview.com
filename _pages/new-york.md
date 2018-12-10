@@ -34,6 +34,11 @@ gallery2:
 
 Hier findet Ihr meine Tipps für **New York**
 
+## Rainbow Room, Rockefeller Center
+Wer einen tollen Ausblick über die Wolkenkratzer New Yorks genießen möchte und dafür kein Vermögen bezahlen möchte, sollte  der [**Bar Sixty Five im Rainbow Room**](https://rainbowroom.com/bar-sixty-five/) des Rockefeller Centers einen Besuch abstatten. Diese liegt im 65. Stock des bekannten Rockefeller Centers (und somit nur ein Stockwerk tiefer als die Aussichtsplattform) und man kann sich den Eintritt sparen. Besonders schön ist es abends, wenn NY beweist, dass es nicht ohne Grund **Die Stadt, die niemals schläft** genannt wird. 
+Wenn man schon in der Bar ist, bietet es sich natürlich an, sich einen Cocktail (Manhattan?) zu gönnen und sich von der Aussicht verzaubern zu lassen. Allerdings wurde es zumindest bei mir nicht kontrolliert, ob man dann in der Bar auch wirklich etwas konsumiert oder nur den schönen Blick genießt.
+![Tolle Aussicht]({{"/assets/images/ny_view_large.jpg"}}){: .full}
+
 ## David Zwirner Gallery
 New York City ist voll von den wundervollsten Museen, davon brauche ich glaube ich gar nicht erst anzufangen… Nicht unbeachtet sollte man dabei die Vielzahl an Kunstgalerien im Stadtteil “Chelsea” in Manhattan lassen. Ganz besonders zu empfehlen ist die [**David Zwirner Gallery**](https://www.davidzwirner.com/), die immer tolle Ausstellungen zeitgenössischer Künstler zeigt. 
 Ich hatte das Glück, dass derzeit die japanische Künstlerin [**Yayoi Kusama ihre berühmten Infinity-Mirrors**](http://yayoi-kusama.jp/e/information/index.html) in eben jener Gallerie ausstellte. Es war ein Traum… und der Eintritt natürlich frei!
@@ -41,11 +46,6 @@ Ich hatte das Glück, dass derzeit die japanische Künstlerin [**Yayoi Kusama ih
 ![Ja guten Tag, was kann ich für Sie tun?]({{"/assets/images/ny_mccaffrey_small.jpg"}}){: .align-right}
 Außerdem kann ich die [**Fergus McCaffrey Galerie**](http://fergusmccaffrey.com/) im Meatpacking District in Chelsea besonders empfehlen. Fergus McCaffrey ist international für seine bedeutende Rolle bei der Förderung der Arbeit japanischer Nachkriegskünstler bekannt. Dort werden auch ausgewählte zeitgenössische Künstler präsentiert. Ich durfte dort letztes Jahr ein Praktikum absolvieren und war begeistert von den dortigen Ausstellungen.
 Achtung: **Die meisten Galerien haben montags geschlossen**, weil sie das ganze Wochenende geöffnet haben.
-
-## Rainbow Room, Rockefeller Center
-Wer einen tollen Ausblick über die Wolkenkratzer New Yorks genießen möchte und dafür kein Vermögen bezahlen möchte, sollte  der [**Bar Sixty Five im Rainbow Room**](https://rainbowroom.com/bar-sixty-five/) des Rockefeller Centers einen Besuch abstatten. Diese liegt im 65. Stock des bekannten Rockefeller Centers (und somit nur ein Stockwerk tiefer als die Aussichtsplattform) und man kann sich den Eintritt sparen. Besonders schön ist es abends, wenn NY beweist, dass es nicht ohne Grund **Die Stadt, die niemals schläft** genannt wird. 
-Wenn man schon in der Bar ist, bietet es sich natürlich an, sich einen Cocktail (Manhattan?) zu gönnen und sich von der Aussicht verzaubern zu lassen. Allerdings wurde es zumindest bei mir nicht kontrolliert, ob man dann in der Bar auch wirklich etwas konsumiert oder nur den schönen Blick genießt.
-![Tolle Aussicht]({{"/assets/images/ny_view_large.jpg"}}){: .full}
 
 ## New York Public Library
 Das Hauptgebäude der [**New York Public Library**](https://www.newyorker.com/culture/cultural-comment/nypl-rose-reading-room-and-the-real-meaning-of-luxury-in-new-york-city) befindet sich auf der Fifth Avenue und ist besonders für die beiden **Löwenstatuen** bekannt, die den Eingang flankieren.
