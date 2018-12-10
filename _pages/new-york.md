@@ -51,7 +51,7 @@ Wenn man schon in der Bar ist, bietet es sich natürlich an, sich einen Cocktail
 Das Hauptgebäude der [**New York Public Library**](https://www.newyorker.com/culture/cultural-comment/nypl-rose-reading-room-and-the-real-meaning-of-luxury-in-new-york-city) befindet sich auf der Fifth Avenue und ist besonders für die beiden **Löwenstatuen** bekannt, die den Eingang flankieren.
 Die Bibliothek ist mit circa 55 Millionen Medien die drittgrößte Bibliothek der Welt und besitzt unter anderem eine Gutenberg-Bibel und eine Ausgabe der “Philosophiae Naturalis Principia Mathematica”.
 Die Bibliothek ist auf jeden Fall einen Besuch wert: Egal, ob man nach einem Buch sucht, recherchieren möchte oder sich einfach nur von dem fabelhaften Gebäude und der Atmosphäre verzaubern lassen will. **Der große Saal im “Beaux Arts”-Stil mit der bemalten Decke übertrifft jegliche Vorstellungskraft** und wirkt einfach nur atemberaubend. Also nichts wie hin!
-{% include gallery id="gallery2" class="half" caption="Juegos Olímpicos de la Juventud 2018" %}
+{% include gallery id="gallery2" class="half" caption="New York Public Library" %}
 
 ## Dough Donuts
 ![Lecker schmecker]({{"/assets/images/ny_donut_small.jpg"}}){: .align-left}
