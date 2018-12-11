@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Buenos Aires"
-  #  url: /buenos-aires/
+  - title: "Buenos Aires"
+    url: /buenos-aires/
   - title: "New York"
     url: /new-york/
   #
