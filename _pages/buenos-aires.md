@@ -71,7 +71,7 @@ gallery5:
     title: "Frischer Saft der Lucuma Frucht"
 ---
 
-Hier findet Ihr Tips für **Buenos Aires**
+Hier findet Ihr meine Tipps für **Buenos Aires**
 
 ## El Ateneo Grand Splendid
 Das [**Ateneo Grand Splendid**](https://turismo.buenosaires.gob.ar/es/atractivo/el-ateneo-grand-splendid) ist eine **wunderschöne Buchhandlung** im Stadtteil Recoleta in einem **ehemaligen Theater**. Das Gebäude ist wurde bereits 1919 gebaut und ist beeindruckend: In der Mitte sind die Bücherregale aufgestellt und an der Seite in den ehemaligen Logen kann man auf roten Samtsesseln schmökern.
