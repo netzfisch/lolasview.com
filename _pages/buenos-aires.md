@@ -2,8 +2,8 @@
 title: Buenos Aires
 permalink: /buenos-aires/
 header:
-  image: /assets/images/ny_sky_header.jpg
-  teaser: /assets/images/ny_view_teaser.jpg
+  image: /assets/images/ba_sign_header.jpg
+  teaser: /assets/images/lanin_flowers_teaser.jpg
 gallery:
   - url: /assets/images/lanin_flowers_large.jpg
     image_path: /assets/images/lanin_flowers_teaser.jpg
@@ -22,8 +22,8 @@ gallery2:
     image_path: /assets/images/cck_lola_teaser.jpg
     alt: "Im größten Kulturzentrum Lateinamerikas"
     title: "Im größten Kulturzentrum Lateinamerikas"
-  - url: /assets/images/cck_ceiling_large.jpg
-    image_path: /assets/images/cck_ceiling_teaser.jpg
+  - url: /assets/images/cck_columns_large.jpg
+    image_path: /assets/images/cck_columns_teaser.jpg
     alt: "Centro Cultural Kirchner"
     title: "Centro Cultural Kirchner"
   - url: /assets/images/cck_blue_large.jpg
@@ -61,12 +61,6 @@ Wer sich nach der argentinischen, recht fettigen und süßen Küche (Fleisch, Du
 ![Alma Zen Vintage]({{"/assets/images/almazen_frida_small.jpg"}}){: .align-left}
 Buenos Aires ist ein wahres Paradies für Secondhand-Liebhaber: Es gibt super viele Ferias und Läden, bei/in denen Secondhand-Kleidung verkauft wird. 
 [**Alma Zen Vintage**](http://www.feriaalmazen.com.ar/) verkauft nicht nur wahre Schätze und wie Kunstwerke wirkende Mode aus anderen Zeitaltern, sondern bietet auch einer anderen **Form der Kunst seinen Platz: der Poesie**. Regelmäßig finden in dem Secondhand-Laden sehr interessante Poetry Slams statt.
-
-
-
-
-
-
 
 
 
